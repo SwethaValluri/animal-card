@@ -1,0 +1,26 @@
+.container {width: 300px;
+            heigth: 700px;
+			border: 1px solid grey;
+            margin: 1em;
+            padding: 1em;
+            box-shadow: 10px 10px grey;
+            text-align: left;
+            background-color: lightpink;}
+.image {width: 300px;
+        border: 1px solid lightpink;
+        padding: 0em;}
+
+.textbox {text-align: left;
+          border: 1px solid grey;
+          padding: 0.5em;}
+.li {list-style: none; text-align: left;}
+.specs {text-align: left;
+        border: 1px solid lightpink;
+        padding: 0em;}
+.name {text-align: left;
+       border: 1px solid lightpink;
+       padding: 0em;
+       }
+.information{text-align: left;
+             border: 1px solid lightpink;
+             padding: 0em;}
